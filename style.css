@@ -1,0 +1,60 @@
+body{
+    background-color: beige;
+}
+#img{
+
+    width: 40px;
+    
+}
+
+.navber img{
+    width: 40px;
+    
+}
+h3{
+    color: blue;
+}
+main{
+   
+    margin-top: 18px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.top-player{
+    background-color: white;
+}
+.player img{
+    width: 56px;
+}
+.player-name{
+
+    margin-left: 10px;
+}
+.margin{
+    margin-top: 10px;
+}
+.top-blog{
+    margin-top: 60px;
+    margin-left: 15px;
+}
+.top-blog img{
+    width: 200px;
+}
+.text-color{
+    color: blue;
+}
+.blog-down{
+    margin-top: 50px;
+}
+h4{
+    margin-left: 12px;
+}
+.end{
+    background-color: white;
+    margin-top: 40px;
+    
+
+}
+.col{
+    
+}
